@@ -1,0 +1,29 @@
+{
+    "expiriences": [
+        {
+            "year": "2021 - ",
+            "company": "Clarisys Informatique",
+            "skills":[
+                {"title":"Développeur FullStack en apprentissage", "details":"VueJs,Django,Django Rest Framework,Docker,Linux"}
+            ]
+        },
+        {
+            "year": "2020 - 2021",
+            "company": "Center Hospitalier Châteaubriant-Nozay-Pouancé",
+            "skills":[
+                {"title":"Assistant Ingénieur", "details":"Chef de projet déploiement de logiciel dereconnaissance vocal Dragon."},
+                {"title":"Développeur FullStack", "details":"Développement de l’interface de changement de mot de passe des personnels de l'hôpital."},
+                {"title":"Chef de projet", "details":"Chef de projet de solutions de « Single time login »"},
+                {"title":"Développeur FullStack", "details":"Développement de l’interface de gestion des résidents en EHPAD / Système de notifications de la liste d’attente d’EHPAD"},
+                {"title":"Chef de projet", "details":"Chef de projet / formateur de l’audit de cyber-sécurité, projet de sensibilisation des personnels hospitalier du GHT44 contre le Phishing"}
+            ]
+        },
+        {
+            "year": "2019 - 2020",
+            "company": "Center de ressources des langues, Université de Toulouse Jean Jaurès",
+            "skills":[
+                {"title":"Moniteur Etudiant"}
+            ]
+        }
+    ]
+}
